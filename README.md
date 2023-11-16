@@ -1,4 +1,4 @@
 # congenial-funicular
-This is a test repositort
+This is my very first repo
 
 This is an edit from my local computer. Remote
